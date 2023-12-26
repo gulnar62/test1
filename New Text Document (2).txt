@@ -1,7 +1,0 @@
-.logs
-!error.logs
-/test2
-test4
-l?sson.txt
-test5/
-l*.txt
